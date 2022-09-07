@@ -3,3 +3,5 @@ foo.txt
 A
 
 B
+
+C
